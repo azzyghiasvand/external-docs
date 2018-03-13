@@ -1,29 +1,4 @@
 
-.. include: global.rst
-
-
-Contents:
-
-.. toctree::
-:maxdepth: 1
-
-release information
-installation
-administration
-integration
-
-.. only:: html
-
-******************
-Indices and Tables
-******************
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
-
 # User Documentation
 
 Welcome to the _User Documentation_ collection for the Cerebro software stack. The
